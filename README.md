@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Car Auction Website**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **FullStack Development**
 
